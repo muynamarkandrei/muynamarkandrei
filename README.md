@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="400" src= "https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif">
+<img align="right" alt="Coding" width="1000" src= "https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/0*4cFGPPIeRmH4K9hT.jpg">
 <h1 align="center">Hi 👋, I'm Mak Muyna</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muynamarkandrei&label=Profile%20views&color=0e75b6&style=flat" alt="muynamarkandrei" /> </p>
