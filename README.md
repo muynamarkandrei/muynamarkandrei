@@ -1,16 +1,16 @@
 <img align="right" alt="Coding" width="400" src= "https://lh3.googleusercontent.com/pw/ADCreHdNc0hBpb_DvsccT7MWj9kPAL0nCBvddba3LSNDnqC64xHo0EtTWsSuVBkQatXUa3GWoZHaBA8wZed4m38QjyHm2t-OitqFwWtdm2WeNBlZ0b9trymrySjag5WzksaKykwFkjjbEzCAC66desyL5cH6P1W52bjihK21tu_9a-gPcBebGL1-Ju__AdSMOTcU-RhM9-ZRLBN6a3xGpjm2ZQj1aqRIJCDTaELkeI-mmytZ6FYWEbtmIu1WzU0eVDTNz-6HNjADgbau5jp7IX5vuOz6HSjQ0uCqJsJuGiReyidIGQY9LXPxuWDxwM0pzVNxGjqceJ5wvUoFn6w3etmRB770Kun16hB2h67Qb8iOgCW-QsYEMdarCcnpkj4D73jrAU3vYHoKI2r6Pvb81B2LnrZhuAmQR90po9eH3RfNnnupRnAgnbP7BO7uMwHDJFCefMT_3oEOn0jfFQZAhjYOt4-o7ZwvKg5WFqi1pbcVvCOZ9O3fx88tF75kzqmKKNXne7CF-oULwpkGB9bZbomiyPvjd6eeKdbkW9xOEhUe3boNATiITdBLLKkn5wFFgAOmQrg3TMofMXXP17XQLGsrLFzRvW3PfIW0esOXMx3Wqns_cDzp9TCYxHGMYh5la5BjAGkgQH_8cPGvJvMFmdOWuHHqlWAEFcZF7lQRTPpkTDtwmFSVd0EZotSkExjqgwA_hObJuYVUset0H3UOS6lSryzKvUs6n7RZls73HfzVWK5JX_l8tItNvUr1XqA5zn7XeZq8rYlF5Hs5yL6IPJZLwRieSg2pAUA4Np_j15cckztjmI10s4fqtnuV4EYKPJAi_dHrOVg4RFHrFjfcRntWj0S0THlQ0D-3CLnXqHBOx24Z8gsJcWPzdrvvZedJLg-W3Q=w720-h720-s-no-gm?authuser=0">
 
 <hr>
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate cybersecurity from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Mak</h1>
+<h3 align="center">A aspiring frontend devloper and cybersecurity from Philippines</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muynamarkandrei&label=Profile%20views&color=0e75b6&style=flat" alt="muynamarkandrei" /> </p>
+<p align="left"> <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE3MTAzNDEsIm5iZiI6MTcyMTcxMDA0MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIzVDA0NDcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZGExOWVhZWFhODI1ZTllODZiMDY0MjMzNzZkYjk3NDcxMzg1NjAwMjk3NmRkZjhjYTBjYjQwMDgxNGNmMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JamU5dGWFawiBBECFRyH3UCW_C-pBr7bCsmJiKcpFNA/> </p>
 
 - 📫 How to reach me **markandremuyna31@gmail.com**
 
-- ⚡ Fun fact **I am lazy to eat**
+- 🤟 **Eyy ka muna**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
