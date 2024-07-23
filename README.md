@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mak</h1>
-<h3 align="center">A aspiring frontend devloper and cybersecurity from Philippines</h3>
+<h3 align="center">A aspiring frontend developer and cybersecurity	&#x1f1f5;&#x1f1ed;</h3>
 
 
 
